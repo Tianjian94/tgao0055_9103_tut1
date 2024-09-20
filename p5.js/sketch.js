@@ -18,7 +18,7 @@ let canvasAspectRatio = 0;
 
 //let's load the image from disk
 function preload() {
-  img = loadImage('/assets/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg');
+  img = loadImage('Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg');
 }
 
 function setup() {
